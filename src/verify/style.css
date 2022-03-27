@@ -1,0 +1,34 @@
+
+
+section .container .row .card .red-c{
+    background-color: #ed2939;
+}
+section .container .row .card .headr-c{
+    background-color: #bb0f0a;
+}
+section .container .row .card .gre-c{
+    background-color: #00ab03;
+}
+section .container .row .card .headg-c{
+    background-color: #048320;
+}
+section .container .row .card .enlop-email{
+    font-size: 30px;
+    margin: 10px 0;
+}
+section .container .row .card .line-bar{
+    width: 135px;
+    height: 2px;
+    margin: 20px auto;
+    background-color: #fff;
+
+}
+section .container .row .box-c{
+  padding: 3px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: 20px;
+    border-radius: 3px;
+
+}
+
+

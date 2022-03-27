@@ -1,0 +1,80 @@
+
+.outside{
+    display: flex;
+    justify-content: center;
+}
+.box-inside{
+    width: 500px;
+    margin-top: 50px;
+}
+.textb{
+    margin-top: 15px;
+}
+section .inputText label:nth-child(n+2){
+    margin-top: 15px;
+}
+section .container .outside .box-inside .buto{
+    width: 100%;
+    padding: 0;
+    margin-top: 16px;
+}
+section .container .outside .box-inside .buto .w{
+    width: 100%;
+
+}
+section .container .outside .box-inside .checkbox{
+    display: flex;
+    width: 100%;
+    margin-top: 30px;
+}
+section .container .outside .box-inside .checkbox label{
+    padding-left: 10px;
+}
+section .container .outside .box-inside .barline{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin-top: 14px;
+}
+section .container .outside .box-inside .barline li:nth-child(1){
+    background: rgb(95, 94, 94);
+    height: 1px;
+    width: 35%;
+    opacity: 0.7;
+    margin-top: 5px;
+}
+section .container .outside .box-inside .barline li:nth-child(3){
+    background: rgb(95, 94, 94);
+    height: 1px;
+    width: 35.5%;
+    opacity: 0.7;
+    margin-top: 5px;
+}
+section .container .outside .box-inside .barline li:nth-child(2){
+    padding: 5px 7px;
+}
+section .container .outside .box-inside .otherb {
+    width: 100%;
+    margin-top: 15px;
+}
+section .container .outside .box-inside .otherb button {
+    width: 100%;
+}
+section .container .outside .box-inside .otherb button:nth-child(2) {
+    margin-top: 20px;
+}
+section .container .outside .box-inside .textTransfer{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 14px;
+    color: rgb(33, 33, 199);
+    margin-top: 20px;
+}
+
+section .container .outside .box-inside .otherb .btn-noGr {
+    color: rgb(33, 33, 199);
+}
